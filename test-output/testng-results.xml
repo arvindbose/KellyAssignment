@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="7" passed="6">
+  <reporter-output>
+    <line>
+      <![CDATA[Actual page title is same as expected.]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\tcVerifyPageTitle_03_09_2018_12_50_38.png'> <img src='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\tcVerifyPageTitle_03_09_2018_12_50_38.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\Login Page_03_09_2018_12_50_39.png'> <img src='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\Login Page_03_09_2018_12_50_39.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on sign in button, Login window appeared and object is:-[[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //div[@class='utility-menu']/ul/li[4]/a]]]>
+    </line>
+    <line>
+      <![CDATA[Entered user name:-arvindbose16@gmail.com and object is [[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //input[@name='socialogin_email']]]]>
+    </line>
+    <line>
+      <![CDATA[Entered password:-Arvind@012 and object is [[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //input[@name='socialogin_password']]]]>
+    </line>
+    <line>
+      <![CDATA[cliked on login button and object is:-[[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //button[@name='send']]]]>
+    </line>
+    <line>
+      <![CDATA[Home button is dispalyed and object is:-[[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //div[@class='skip-links-inner']/a[1]]]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\loginToappWithrequiredCredentials_03_09_2018_12_50_50.png'> <img src='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\loginToappWithrequiredCredentials_03_09_2018_12_50_50.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on men running shoes.]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\tcNavigateTo_Men_RunningShoes_03_09_2018_12_50_55.png'> <img src='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\tcNavigateTo_Men_RunningShoes_03_09_2018_12_50_55.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[clicked on 2nd shoes and new window lauunch for carting and object is:-[[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //div[@class='category-products']/ul[1]/li[2]]]]>
+    </line>
+    <line>
+      <![CDATA[Window switch to cart window.]]>
+    </line>
+    <line>
+      <![CDATA[Window switch to cart window.]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\tcClcikOnSecondShoe_AndSwitchToCartPage_03_09_2018_12_50_59.png'> <img src='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\tcClcikOnSecondShoe_AndSwitchToCartPage_03_09_2018_12_50_59.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on size selection button and size list panel appeared]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on specific size and selected size appear in the box.]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\tcSelectSizeAndQuantity_03_09_2018_12_51_03.png'> <img src='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\tcSelectSizeAndQuantity_03_09_2018_12_51_03.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Click on add to cart button to add product in cart and object is:-Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='add-to-cart']//button']]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\tcAddToCartSelectedProduct_03_09_2018_12_52_14.png'> <img src='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\tcAddToCartSelectedProduct_03_09_2018_12_52_14.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Actual page tiltle for cart is same as expected.]]>
+    </line>
+    <line>
+      <![CDATA[Product name appear on main page is same as Cart page and object is:-[[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //table[@id='shopping-cart-table']/tbody/tr/td[2]/h2/a]]]>
+    </line>
+    <line>
+      <![CDATA[Product Price appear on main page is same as Cart page and object is:-[[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //table[@id='shopping-cart-table']/tbody/tr/td[3]/span/span]]]>
+    </line>
+    <line>
+      <![CDATA[<a href='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\blank_03_09_2018_12_52_17.png'> <img src='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\blank_03_09_2018_12_52_17.png' height='100' width='100'/> </a>]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="117558" started-at="2018-09-03T07:20:24Z" finished-at="2018-09-03T07:22:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="117558" started-at="2018-09-03T07:20:24Z" finished-at="2018-09-03T07:22:22Z">
+      <class name="com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes@62e136d3]" name="setUp" is-config="true" duration-ms="13833" started-at="2018-09-03T12:50:24Z" finished-at="2018-09-03T12:50:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes@62e136d3]" name="beforeMethod" is-config="true" duration-ms="3" started-at="2018-09-03T12:50:38Z" finished-at="2018-09-03T12:50:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes.tcVerifyPageTitle()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="tcVerifyPageTitle()[pri:1, instance:com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes@62e136d3]" name="tcVerifyPageTitle" duration-ms="682" started-at="2018-09-03T12:50:38Z" finished-at="2018-09-03T12:50:39Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Actual page title is same as expected.]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\tcVerifyPageTitle_03_09_2018_12_50_38.png'> <img src='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\tcVerifyPageTitle_03_09_2018_12_50_38.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tcVerifyPageTitle -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes@62e136d3]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-09-03T12:50:39Z" finished-at="2018-09-03T12:50:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tcVerifyPageTitle status=SUCCESS method=TC_Purchase_Of_MenRunningShoes.tcVerifyPageTitle()[pri:1, instance:com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes@62e136d3] output=Actual page title is same as expected.]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes@62e136d3]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-09-03T12:50:39Z" finished-at="2018-09-03T12:50:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes.loginToappWithrequiredCredentials(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="loginToappWithrequiredCredentials(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes@62e136d3]" name="loginToappWithrequiredCredentials" duration-ms="11798" started-at="2018-09-03T12:50:39Z" data-provider="pumaPortalLoginData" finished-at="2018-09-03T12:50:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[arvindbose16@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Arvind@012]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\Login Page_03_09_2018_12_50_39.png'> <img src='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\Login Page_03_09_2018_12_50_39.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on sign in button, Login window appeared and object is:-[[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //div[@class='utility-menu']/ul/li[4]/a]]]>
+            </line>
+            <line>
+              <![CDATA[Entered user name:-arvindbose16@gmail.com and object is [[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //input[@name='socialogin_email']]]]>
+            </line>
+            <line>
+              <![CDATA[Entered password:-Arvind@012 and object is [[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //input[@name='socialogin_password']]]]>
+            </line>
+            <line>
+              <![CDATA[cliked on login button and object is:-[[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //button[@name='send']]]]>
+            </line>
+            <line>
+              <![CDATA[Home button is dispalyed and object is:-[[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //div[@class='skip-links-inner']/a[1]]]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\loginToappWithrequiredCredentials_03_09_2018_12_50_50.png'> <img src='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\loginToappWithrequiredCredentials_03_09_2018_12_50_50.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginToappWithrequiredCredentials -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes@62e136d3]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-09-03T12:50:51Z" finished-at="2018-09-03T12:50:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes.tcNavigateTo_Men_RunningShoes()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes@62e136d3]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-09-03T12:50:51Z" finished-at="2018-09-03T12:50:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginToappWithrequiredCredentials status=SUCCESS method=TC_Purchase_Of_MenRunningShoes.loginToappWithrequiredCredentials(java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes@62e136d3] output=<a href='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\Login Page_03_09_2018_12_50_39.png'> <img src='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\Login Page_03_09_2018_12_50_39.png' height='100' width='100'/> </a>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="tcNavigateTo_Men_RunningShoes()[pri:3, instance:com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes@62e136d3]" name="tcNavigateTo_Men_RunningShoes" duration-ms="4593" started-at="2018-09-03T12:50:51Z" finished-at="2018-09-03T12:50:55Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on men running shoes.]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\tcNavigateTo_Men_RunningShoes_03_09_2018_12_50_55.png'> <img src='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\tcNavigateTo_Men_RunningShoes_03_09_2018_12_50_55.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tcNavigateTo_Men_RunningShoes -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes@62e136d3]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-09-03T12:50:55Z" finished-at="2018-09-03T12:50:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tcNavigateTo_Men_RunningShoes status=SUCCESS method=TC_Purchase_Of_MenRunningShoes.tcNavigateTo_Men_RunningShoes()[pri:3, instance:com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes@62e136d3] output=Clicked on men running shoes.]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes@62e136d3]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-09-03T12:50:55Z" finished-at="2018-09-03T12:50:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes.tcClcikOnSecondShoe_AndSwitchToCartPage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="tcClcikOnSecondShoe_AndSwitchToCartPage()[pri:4, instance:com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes@62e136d3]" name="tcClcikOnSecondShoe_AndSwitchToCartPage" duration-ms="5107" started-at="2018-09-03T12:50:55Z" finished-at="2018-09-03T12:51:00Z">
+          <reporter-output>
+            <line>
+              <![CDATA[clicked on 2nd shoes and new window lauunch for carting and object is:-[[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //div[@class='category-products']/ul[1]/li[2]]]]>
+            </line>
+            <line>
+              <![CDATA[Window switch to cart window.]]>
+            </line>
+            <line>
+              <![CDATA[Window switch to cart window.]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\tcClcikOnSecondShoe_AndSwitchToCartPage_03_09_2018_12_50_59.png'> <img src='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\tcClcikOnSecondShoe_AndSwitchToCartPage_03_09_2018_12_50_59.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tcClcikOnSecondShoe_AndSwitchToCartPage -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes@62e136d3]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-09-03T12:51:00Z" finished-at="2018-09-03T12:51:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tcClcikOnSecondShoe_AndSwitchToCartPage status=SUCCESS method=TC_Purchase_Of_MenRunningShoes.tcClcikOnSecondShoe_AndSwitchToCartPage()[pri:4, instance:com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes@62e136d3] output=clicked on 2nd shoes and new window lauunch for carting and object is:-[[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //div[@class='category-products']/ul[1]/li[2]]]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes@62e136d3]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-09-03T12:51:00Z" finished-at="2018-09-03T12:51:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes.tcSelectSizeAndQuantity(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="tcSelectSizeAndQuantity(java.lang.String, java.lang.String, java.lang.String)[pri:5, instance:com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes@62e136d3]" name="tcSelectSizeAndQuantity" duration-ms="2434" started-at="2018-09-03T12:51:00Z" data-provider="ProductSizeQuantityData" finished-at="2018-09-03T12:51:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Clicked on size selection button and size list panel appeared]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on specific size and selected size appear in the box.]]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\tcSelectSizeAndQuantity_03_09_2018_12_51_03.png'> <img src='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\tcSelectSizeAndQuantity_03_09_2018_12_51_03.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tcSelectSizeAndQuantity -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes@62e136d3]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-09-03T12:51:03Z" finished-at="2018-09-03T12:51:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tcSelectSizeAndQuantity status=SUCCESS method=TC_Purchase_Of_MenRunningShoes.tcSelectSizeAndQuantity(java.lang.String, java.lang.String, java.lang.String)[pri:5, instance:com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes@62e136d3] output=Clicked on size selection button and size list panel appeared]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="tcAddToCartSelectedProduct()[pri:6, instance:com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes@62e136d3]" name="tcAddToCartSelectedProduct" duration-ms="71082" started-at="2018-09-03T12:51:03Z" finished-at="2018-09-03T12:52:14Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Click on add to cart button to add product in cart and object is:-Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='add-to-cart']//button']]>
+            </line>
+            <line>
+              <![CDATA[<a href='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\tcAddToCartSelectedProduct_03_09_2018_12_52_14.png'> <img src='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\tcAddToCartSelectedProduct_03_09_2018_12_52_14.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tcAddToCartSelectedProduct -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes@62e136d3]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-09-03T12:51:03Z" finished-at="2018-09-03T12:51:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes.tcAddToCartSelectedProduct()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes@62e136d3]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-09-03T12:52:14Z" finished-at="2018-09-03T12:52:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tcAddToCartSelectedProduct status=SUCCESS method=TC_Purchase_Of_MenRunningShoes.tcAddToCartSelectedProduct()[pri:6, instance:com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes@62e136d3] output=Click on add to cart button to add product in cart and object is:-Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='add-to-cart']//button']]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="FAIL" signature="tcValidateCartWithProductNamePriceAndQuantity(java.lang.String, java.lang.String, java.lang.String)[pri:7, instance:com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes@62e136d3]" name="tcValidateCartWithProductNamePriceAndQuantity" duration-ms="3256" started-at="2018-09-03T12:52:14Z" data-provider="ProductSizeQuantityData" finished-at="2018-09-03T12:52:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [1] but found [4]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [1] but found [4]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:135)
+	at org.testng.Assert.assertEquals(Assert.java:116)
+	at org.testng.Assert.assertEquals(Assert.java:190)
+	at org.testng.Assert.assertEquals(Assert.java:200)
+	at com.puma.productselection.Purchase_of_MenRunningShoes.validateCartWithProductNamePriceAndQuantity(Purchase_of_MenRunningShoes.java:198)
+	at com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes.tcValidateCartWithProductNamePriceAndQuantity(TC_Purchase_Of_MenRunningShoes.java:164)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[Actual page tiltle for cart is same as expected.]]>
+            </line>
+            <line>
+              <![CDATA[Product name appear on main page is same as Cart page and object is:-[[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //table[@id='shopping-cart-table']/tbody/tr/td[2]/h2/a]]]>
+            </line>
+            <line>
+              <![CDATA[Product Price appear on main page is same as Cart page and object is:-[[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //table[@id='shopping-cart-table']/tbody/tr/td[3]/span/span]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tcValidateCartWithProductNamePriceAndQuantity -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes@62e136d3]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-09-03T12:52:14Z" finished-at="2018-09-03T12:52:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes.tcValidateCartWithProductNamePriceAndQuantity(java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes@62e136d3]" name="afterMethod" is-config="true" duration-ms="251" started-at="2018-09-03T12:52:17Z" finished-at="2018-09-03T12:52:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=tcValidateCartWithProductNamePriceAndQuantity status=FAILURE method=TC_Purchase_Of_MenRunningShoes.tcValidateCartWithProductNamePriceAndQuantity(java.lang.String, java.lang.String, java.lang.String)[pri:7, instance:com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes@62e136d3] output=Actual page tiltle for cart is same as expected.]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\blank_03_09_2018_12_52_17.png'> <img src='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\blank_03_09_2018_12_52_17.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes@62e136d3]" name="endTest" is-config="true" duration-ms="4109" started-at="2018-09-03T12:52:17Z" finished-at="2018-09-03T12:52:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

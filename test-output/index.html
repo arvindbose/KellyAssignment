@@ -1,0 +1,532 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />  
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite, 1 failed test</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-Default_suite">
+              <span class="suite-name border-failed">Default suite</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-Default_suite">
+                    <span>C:\Users\vaps\AppData\Local\Temp\testng-eclipse-850064152\testng-customsuite.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-Default_suite">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-Default_suite">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-Default_suite">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-Default_suite">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-Default_suite">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-Default_suite">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">7 methods, 1 failed,   6 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title failed">Failed methods</span>
+                    <span class="show-or-hide-methods failed">
+                      <a href="#" panel-name="suite-Default_suite" class="hide-methods failed suite-Default_suite"> (hide)</a> <!-- hide-methods failed suite-Default_suite -->
+                      <a href="#" panel-name="suite-Default_suite" class="show-methods failed suite-Default_suite"> (show)</a> <!-- show-methods failed suite-Default_suite -->
+                    </span>
+                    <div class="method-list-content failed suite-Default_suite">
+                      <span>
+                        <img width="3%" src="failed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes" hash-for-method="tcValidateCartWithProductNamePriceAndQuantity(7, 1, Y)">tcValidateCartWithProductNamePriceAndQuantity(7, 1, Y)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content failed suite-Default_suite -->
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Default_suite" class="hide-methods passed suite-Default_suite"> (hide)</a> <!-- hide-methods passed suite-Default_suite -->
+                      <a href="#" panel-name="suite-Default_suite" class="show-methods passed suite-Default_suite"> (show)</a> <!-- show-methods passed suite-Default_suite -->
+                    </span>
+                    <div class="method-list-content passed suite-Default_suite">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes" hash-for-method="loginToappWithrequiredCredentials(arvindbose16@gmail.com, Arvind@012, Y)">loginToappWithrequiredCredentials(arvindbose16@gmail.com, Arvind@012, Y)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes" hash-for-method="tcAddToCartSelectedProduct">tcAddToCartSelectedProduct</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes" hash-for-method="tcClcikOnSecondShoe_AndSwitchToCartPage">tcClcikOnSecondShoe_AndSwitchToCartPage</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes" hash-for-method="tcNavigateTo_Men_RunningShoes">tcNavigateTo_Men_RunningShoes</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes" hash-for-method="tcSelectSizeAndQuantity(7, 1, Y)">tcSelectSizeAndQuantity(7, 1, Y)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Default_suite" title="com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes" hash-for-method="tcVerifyPageTitle">tcVerifyPageTitle</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Default_suite -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Default_suite" class="panel Default_suite">
+          <div class="suite-Default_suite-class-failed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="failed.png"/>
+              <span class="class-name">com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="tcValidateCartWithProductNamePriceAndQuantity(7, 1, Y)">
+                  </a> <!-- tcValidateCartWithProductNamePriceAndQuantity(7, 1, Y) -->
+                  <span class="method-name">tcValidateCartWithProductNamePriceAndQuantity</span>
+                  <span class="parameters">(7, 1, Y)</span>
+                  <div class="stack-trace">java.lang.AssertionError: expected [1] but found [4]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:513)
+	at org.testng.Assert.assertEqualsImpl(Assert.java:135)
+	at org.testng.Assert.assertEquals(Assert.java:116)
+	at org.testng.Assert.assertEquals(Assert.java:190)
+	at org.testng.Assert.assertEquals(Assert.java:200)
+	at com.puma.productselection.Purchase_of_MenRunningShoes.validateCartWithProductNamePriceAndQuantity(Purchase_of_MenRunningShoes.java:198)
+	at com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes.tcValidateCartWithProductNamePriceAndQuantity(TC_Purchase_Of_MenRunningShoes.java:164)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:645)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)
+	at org.testng.TestRunner.privateRun(TestRunner.java:756)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:387)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1218)
+	at org.testng.TestNG.runSuites(TestNG.java:1133)
+	at org.testng.TestNG.run(TestNG.java:1104)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:132)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:230)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:76)
+
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Default_suite-class-failed -->
+          <div class="suite-Default_suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="loginToappWithrequiredCredentials(arvindbose16@gmail.com, Arvind@012, Y)">
+                  </a> <!-- loginToappWithrequiredCredentials(arvindbose16@gmail.com, Arvind@012, Y) -->
+                  <span class="method-name">loginToappWithrequiredCredentials</span>
+                  <span class="parameters">(arvindbose16@gmail.com, Arvind@012, Y)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="tcAddToCartSelectedProduct">
+                  </a> <!-- tcAddToCartSelectedProduct -->
+                  <span class="method-name">tcAddToCartSelectedProduct</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="tcClcikOnSecondShoe_AndSwitchToCartPage">
+                  </a> <!-- tcClcikOnSecondShoe_AndSwitchToCartPage -->
+                  <span class="method-name">tcClcikOnSecondShoe_AndSwitchToCartPage</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="tcNavigateTo_Men_RunningShoes">
+                  </a> <!-- tcNavigateTo_Men_RunningShoes -->
+                  <span class="method-name">tcNavigateTo_Men_RunningShoes</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="tcSelectSizeAndQuantity(7, 1, Y)">
+                  </a> <!-- tcSelectSizeAndQuantity(7, 1, Y) -->
+                  <span class="method-name">tcSelectSizeAndQuantity</span>
+                  <span class="parameters">(7, 1, Y)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="tcVerifyPageTitle">
+                  </a> <!-- tcVerifyPageTitle -->
+                  <span class="method-name">tcVerifyPageTitle</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Default_suite-class-passed -->
+        </div> <!-- panel Default_suite -->
+        <div panel-name="test-xml-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Users\vaps\AppData\Local\Temp\testng-eclipse-850064152\testng-customsuite.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;Default suite&quot;&gt;
+  &lt;test verbose=&quot;2&quot; name=&quot;Default test&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Default test --&gt;
+&lt;/suite&gt; &lt;!-- Default suite --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Default test (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Default_suite');
+function tableData_Default_suite() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(7);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'tcAddToCartSelectedProduct')
+data.setCell(0, 2, 'com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes')
+data.setCell(0, 3, 71082);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'loginToappWithrequiredCredentials')
+data.setCell(1, 2, 'com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes')
+data.setCell(1, 3, 11798);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'tcClcikOnSecondShoe_AndSwitchToCartPage')
+data.setCell(2, 2, 'com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes')
+data.setCell(2, 3, 5107);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'tcNavigateTo_Men_RunningShoes')
+data.setCell(3, 2, 'com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes')
+data.setCell(3, 3, 4593);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'tcValidateCartWithProductNamePriceAndQuantity')
+data.setCell(4, 2, 'com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes')
+data.setCell(4, 3, 3256);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'tcSelectSizeAndQuantity')
+data.setCell(5, 2, 'com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes')
+data.setCell(5, 3, 2434);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'tcVerifyPageTitle')
+data.setCell(6, 2, 'com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes')
+data.setCell(6, 3, 682);
+window.suiteTableData['Default_suite']= { tableData: data, tableDiv: 'times-div-Default_suite'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 1 minutes</span>
+              <div id="times-div-Default_suite">
+              </div> <!-- times-div-Default_suite -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Default suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">tcNavigateTo_Men_RunningShoes</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Clicked on men running shoes.</span>
+                <span class="reporter-method-output"><a href='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\tcNavigateTo_Men_RunningShoes_03_09_2018_12_50_55.png'> <img src='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\tcNavigateTo_Men_RunningShoes_03_09_2018_12_50_55.png' height='100' width='100'/> </a></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">tcVerifyPageTitle</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Actual page title is same as expected.</span>
+                <span class="reporter-method-output"><a href='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\tcVerifyPageTitle_03_09_2018_12_50_38.png'> <img src='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\tcVerifyPageTitle_03_09_2018_12_50_38.png' height='100' width='100'/> </a></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">tcAddToCartSelectedProduct</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Click on add to cart button to add product in cart and object is:-Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='add-to-cart']//button'</span>
+                <span class="reporter-method-output"><a href='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\tcAddToCartSelectedProduct_03_09_2018_12_52_14.png'> <img src='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\tcAddToCartSelectedProduct_03_09_2018_12_52_14.png' height='100' width='100'/> </a></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">tcSelectSizeAndQuantity(7, 1, Y)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Clicked on size selection button and size list panel appeared</span>
+                <span class="reporter-method-output">Clicked on specific size and selected size appear in the box.</span>
+                <span class="reporter-method-output"><a href='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\tcSelectSizeAndQuantity_03_09_2018_12_51_03.png'> <img src='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\tcSelectSizeAndQuantity_03_09_2018_12_51_03.png' height='100' width='100'/> </a></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">loginToappWithrequiredCredentials(arvindbose16@gmail.com, Arvind@012, Y)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"><a href='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\Login Page_03_09_2018_12_50_39.png'> <img src='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\Login Page_03_09_2018_12_50_39.png' height='100' width='100'/> </a></span>
+                <span class="reporter-method-output">Clicked on sign in button, Login window appeared and object is:-[[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //div[@class='utility-menu']/ul/li[4]/a]</span>
+                <span class="reporter-method-output">Entered user name:-arvindbose16@gmail.com and object is [[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //input[@name='socialogin_email']]</span>
+                <span class="reporter-method-output">Entered password:-Arvind@012 and object is [[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //input[@name='socialogin_password']]</span>
+                <span class="reporter-method-output">cliked on login button and object is:-[[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //button[@name='send']]</span>
+                <span class="reporter-method-output">Home button is dispalyed and object is:-[[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //div[@class='skip-links-inner']/a[1]]</span>
+                <span class="reporter-method-output"><a href='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\loginToappWithrequiredCredentials_03_09_2018_12_50_50.png'> <img src='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\loginToappWithrequiredCredentials_03_09_2018_12_50_50.png' height='100' width='100'/> </a></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">tcClcikOnSecondShoe_AndSwitchToCartPage</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">clicked on 2nd shoes and new window lauunch for carting and object is:-[[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //div[@class='category-products']/ul[1]/li[2]]</span>
+                <span class="reporter-method-output">Window switch to cart window.</span>
+                <span class="reporter-method-output">Window switch to cart window.</span>
+                <span class="reporter-method-output"><a href='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\tcClcikOnSecondShoe_AndSwitchToCartPage_03_09_2018_12_50_59.png'> <img src='C:\Users\vaps\Desktop\PUMAPORTAL\src\main\java\com\puma\screenshot\tcClcikOnSecondShoe_AndSwitchToCartPage_03_09_2018_12_50_59.png' height='100' width='100'/> </a></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">tcValidateCartWithProductNamePriceAndQuantity(7, 1, Y)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Actual page tiltle for cart is same as expected.</span>
+                <span class="reporter-method-output">Product name appear on main page is same as Cart page and object is:-[[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //table[@id='shopping-cart-table']/tbody/tr/td[2]/h2/a]</span>
+                <span class="reporter-method-output">Product Price appear on main page is same as Cart page and object is:-[[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //table[@id='shopping-cart-table']/tbody/tr/td[3]/span/span]</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Default_suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeMethod(public void com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes.tcVerifyPageTitle())</span>
+                <span class="method-start">13839 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">tcVerifyPageTitle</span>
+                <span class="method-start">13842 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterMethod([TestResult name=tcVerifyPageTitle status=SUCCESS method=TC_Purchase_Of_MenRunningShoes.tcVerifyPage...)</span>
+                <span class="method-start">14525 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeMethod(public void com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes.loginToappWithrequiredCreden...)</span>
+                <span class="method-start">14871 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">loginToappWithrequiredCredentials(arvindbose16@gmail.com, Arvind@012, Y)</span>
+                <span class="method-start">14871 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterMethod([TestResult name=loginToappWithrequiredCredentials status=SUCCESS method=TC_Purchase_Of_MenRunningSh...)</span>
+                <span class="method-start">26670 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeMethod(public void com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes.tcNavigateTo_Men_RunningShoe...)</span>
+                <span class="method-start">26670 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">tcNavigateTo_Men_RunningShoes</span>
+                <span class="method-start">26671 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterMethod([TestResult name=tcNavigateTo_Men_RunningShoes status=SUCCESS method=TC_Purchase_Of_MenRunningShoes....)</span>
+                <span class="method-start">31265 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeMethod(public void com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes.tcClcikOnSecondShoe_AndSwitc...)</span>
+                <span class="method-start">31265 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">tcClcikOnSecondShoe_AndSwitchToCartPage</span>
+                <span class="method-start">31265 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterMethod([TestResult name=tcClcikOnSecondShoe_AndSwitchToCartPage status=SUCCESS method=TC_Purchase_Of_MenRun...)</span>
+                <span class="method-start">36372 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeMethod(public void com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes.tcSelectSizeAndQuantity(java...)</span>
+                <span class="method-start">36393 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">tcSelectSizeAndQuantity(7, 1, Y)</span>
+                <span class="method-start">36393 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterMethod([TestResult name=tcSelectSizeAndQuantity status=SUCCESS method=TC_Purchase_Of_MenRunningShoes.tcSele...)</span>
+                <span class="method-start">38828 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeMethod(public void com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes.tcAddToCartSelectedProduct())</span>
+                <span class="method-start">38828 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">tcAddToCartSelectedProduct</span>
+                <span class="method-start">38828 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterMethod([TestResult name=tcAddToCartSelectedProduct status=SUCCESS method=TC_Purchase_Of_MenRunningShoes.tcA...)</span>
+                <span class="method-start">109911 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">beforeMethod(public void com.puma.TC.productselection.TC_Purchase_Of_MenRunningShoes.tcValidateCartWithProductNam...)</span>
+                <span class="method-start">109929 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">tcValidateCartWithProductNamePriceAndQuantity(7, 1, Y)</span>
+                <span class="method-start">109929 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">afterMethod([TestResult name=tcValidateCartWithProductNamePriceAndQuantity status=FAILURE method=TC_Purchase_Of_...)</span>
+                <span class="method-start">113186 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-class after">
+                <span class="method-name">endTest</span>
+                <span class="method-start">113438 ms</span>
+              </div> <!-- configuration-class after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

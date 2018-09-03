@@ -1,0 +1,218 @@
+2018-09-02 17:18:22 INFO  TestBase:146 - navigating to :-https://in.puma.com/
+2018-09-02 17:18:34 INFO  TC_Purchase_Of_RunningShoes:47 - ============= Strting tcVerifyPageTitle===========
+2018-09-02 17:18:34 INFO  TC_Purchase_Of_RunningShoes:52 - ============= Finished tcVerifyPageTitle===========
+2018-09-02 17:18:37 INFO  TestBase:298 - browser closed
+2018-09-02 17:25:39 INFO  TestBase:146 - navigating to :-https://in.puma.com/
+2018-09-02 17:25:59 INFO  TC_Purchase_Of_RunningShoes:47 - ============= Strting tcVerifyPageTitle===========
+2018-09-02 17:25:59 INFO  TC_Purchase_Of_RunningShoes:52 - ============= Finished tcVerifyPageTitle===========
+2018-09-02 17:26:03 INFO  TC_Purchase_Of_RunningShoes:67 - ============= Strting login to the puma application===========
+2018-09-02 17:26:06 INFO  TestBase:261 - Clicked on sign in button, Login window appeared and object is:-[[ChromeDriver: chrome on XP (5bc531653bb5c16838d447919834a959)] -> xpath: //div[@class='utility-menu']/ul/li[4]/a]
+2018-09-02 17:26:09 INFO  TestBase:261 - Entered user name:-arvindbose16@gmail.com and object is [[ChromeDriver: chrome on XP (5bc531653bb5c16838d447919834a959)] -> xpath: //input[@name='socialogin_email']]
+2018-09-02 17:26:10 INFO  TestBase:261 - Entered password:-Arvind@012 and object is [[ChromeDriver: chrome on XP (5bc531653bb5c16838d447919834a959)] -> xpath: //input[@name='socialogin_password']]
+2018-09-02 17:26:11 INFO  TestBase:261 - cliked on login button and object is:-[[ChromeDriver: chrome on XP (5bc531653bb5c16838d447919834a959)] -> xpath: //button[@name='send']]
+2018-09-02 17:26:14 INFO  TestBase:261 - Home button is dispalyed and object is:-[[ChromeDriver: chrome on XP (5bc531653bb5c16838d447919834a959)] -> xpath: //div[@class='skip-links-inner']/a[1]]
+2018-09-02 17:26:14 INFO  TC_Purchase_Of_RunningShoes:74 - ============= Finished login to the puma application===========
+2018-09-02 17:26:17 INFO  TestBase:298 - browser closed
+2018-09-02 17:33:22 INFO  TestBase:146 - navigating to :-https://in.puma.com/
+2018-09-02 17:33:34 INFO  TC_Purchase_Of_RunningShoes:47 - ============= Strting tcVerifyPageTitle===========
+2018-09-02 17:33:34 INFO  TC_Purchase_Of_RunningShoes:52 - ============= Finished tcVerifyPageTitle===========
+2018-09-02 17:33:37 INFO  TC_Purchase_Of_RunningShoes:67 - ============= Strting login to the puma application===========
+2018-09-02 17:33:39 INFO  TestBase:261 - Clicked on sign in button, Login window appeared and object is:-[[ChromeDriver: chrome on XP (0349f77f7159276ea57d1b25b6624d55)] -> xpath: //div[@class='utility-menu']/ul/li[4]/a]
+2018-09-02 17:33:42 INFO  TestBase:261 - Entered user name:-arvindbose16@gmail.com and object is [[ChromeDriver: chrome on XP (0349f77f7159276ea57d1b25b6624d55)] -> xpath: //input[@name='socialogin_email']]
+2018-09-02 17:33:43 INFO  TestBase:261 - Entered password:-Arvind@012 and object is [[ChromeDriver: chrome on XP (0349f77f7159276ea57d1b25b6624d55)] -> xpath: //input[@name='socialogin_password']]
+2018-09-02 17:33:44 INFO  TestBase:261 - cliked on login button and object is:-[[ChromeDriver: chrome on XP (0349f77f7159276ea57d1b25b6624d55)] -> xpath: //button[@name='send']]
+2018-09-02 17:33:47 INFO  TestBase:261 - Home button is dispalyed and object is:-[[ChromeDriver: chrome on XP (0349f77f7159276ea57d1b25b6624d55)] -> xpath: //div[@class='skip-links-inner']/a[1]]
+2018-09-02 17:33:47 INFO  TC_Purchase_Of_RunningShoes:74 - ============= Finished login to the puma application===========
+2018-09-02 17:33:51 INFO  TestBase:298 - browser closed
+2018-09-02 17:35:15 INFO  TestBase:146 - navigating to :-https://in.puma.com/
+2018-09-02 17:35:26 INFO  TC_Purchase_Of_RunningShoes:47 - ============= Strting tcVerifyPageTitle===========
+2018-09-02 17:35:26 INFO  TC_Purchase_Of_RunningShoes:52 - ============= Finished tcVerifyPageTitle===========
+2018-09-02 17:35:28 INFO  TC_Purchase_Of_RunningShoes:67 - ============= Strting login to the puma application===========
+2018-09-02 17:35:31 INFO  TestBase:261 - Clicked on sign in button, Login window appeared and object is:-[[ChromeDriver: chrome on XP (2e7c18676e74e54d8127e81fb2d3eafa)] -> xpath: //div[@class='utility-menu']/ul/li[4]/a]
+2018-09-02 17:35:33 INFO  TestBase:261 - Entered user name:-arvindbose16@gmail.com and object is [[ChromeDriver: chrome on XP (2e7c18676e74e54d8127e81fb2d3eafa)] -> xpath: //input[@name='socialogin_email']]
+2018-09-02 17:35:35 INFO  TestBase:261 - Entered password:-Arvind@012 and object is [[ChromeDriver: chrome on XP (2e7c18676e74e54d8127e81fb2d3eafa)] -> xpath: //input[@name='socialogin_password']]
+2018-09-02 17:35:36 INFO  TestBase:261 - cliked on login button and object is:-[[ChromeDriver: chrome on XP (2e7c18676e74e54d8127e81fb2d3eafa)] -> xpath: //button[@name='send']]
+2018-09-02 17:35:38 INFO  TestBase:261 - Home button is dispalyed and object is:-[[ChromeDriver: chrome on XP (2e7c18676e74e54d8127e81fb2d3eafa)] -> xpath: //div[@class='skip-links-inner']/a[1]]
+2018-09-02 17:35:38 INFO  TC_Purchase_Of_RunningShoes:74 - ============= Finished login to the puma application===========
+2018-09-02 17:35:46 INFO  TestBase:299 - browser closed
+2018-09-02 17:36:37 INFO  TestBase:146 - navigating to :-https://in.puma.com/
+2018-09-02 17:36:48 INFO  TC_Purchase_Of_RunningShoes:47 - ============= Strting tcVerifyPageTitle===========
+2018-09-02 17:36:51 INFO  TC_Purchase_Of_RunningShoes:67 - ============= Strting login to the puma application===========
+2018-09-02 17:36:54 INFO  TestBase:261 - Clicked on sign in button, Login window appeared and object is:-[[ChromeDriver: chrome on XP (bcecc1cbdfae70aa87482e2a1616d802)] -> xpath: //div[@class='utility-menu']/ul/li[4]/a]
+2018-09-02 17:36:56 INFO  TestBase:261 - Entered user name:-arvindbose16@gmail.com and object is [[ChromeDriver: chrome on XP (bcecc1cbdfae70aa87482e2a1616d802)] -> xpath: //input[@name='socialogin_email']]
+2018-09-02 17:36:58 INFO  TestBase:261 - Entered password:-Arvind@012 and object is [[ChromeDriver: chrome on XP (bcecc1cbdfae70aa87482e2a1616d802)] -> xpath: //input[@name='socialogin_password']]
+2018-09-02 17:36:59 INFO  TestBase:261 - cliked on login button and object is:-[[ChromeDriver: chrome on XP (bcecc1cbdfae70aa87482e2a1616d802)] -> xpath: //button[@name='send']]
+2018-09-02 17:37:01 INFO  TestBase:261 - Home button is dispalyed and object is:-[[ChromeDriver: chrome on XP (bcecc1cbdfae70aa87482e2a1616d802)] -> xpath: //div[@class='skip-links-inner']/a[1]]
+2018-09-02 17:37:01 INFO  TC_Purchase_Of_RunningShoes:74 - ============= Finished login to the puma application===========
+2018-09-02 17:37:09 INFO  TestBase:299 - browser closed
+2018-09-02 17:38:08 INFO  TestBase:146 - navigating to :-https://in.puma.com/
+2018-09-02 17:38:18 INFO  TC_Purchase_Of_RunningShoes:47 - ============= Strting tcVerifyPageTitle===========
+2018-09-02 17:38:19 INFO  TC_Purchase_Of_RunningShoes:52 - ============= Finished tcVerifyPageTitle===========
+2018-09-02 17:38:21 INFO  TC_Purchase_Of_RunningShoes:67 - ============= Strting login to the puma application===========
+2018-09-02 17:38:23 INFO  TestBase:261 - Clicked on sign in button, Login window appeared and object is:-[[ChromeDriver: chrome on XP (d0d17a3d02f8e9e9247ef730adc52208)] -> xpath: //div[@class='utility-menu']/ul/li[4]/a]
+2018-09-02 17:38:26 INFO  TestBase:261 - Entered user name:-arvindbose16@gmail.com and object is [[ChromeDriver: chrome on XP (d0d17a3d02f8e9e9247ef730adc52208)] -> xpath: //input[@name='socialogin_email']]
+2018-09-02 17:38:28 INFO  TestBase:261 - Entered password:-Arvind@012 and object is [[ChromeDriver: chrome on XP (d0d17a3d02f8e9e9247ef730adc52208)] -> xpath: //input[@name='socialogin_password']]
+2018-09-02 17:38:29 INFO  TestBase:261 - cliked on login button and object is:-[[ChromeDriver: chrome on XP (d0d17a3d02f8e9e9247ef730adc52208)] -> xpath: //button[@name='send']]
+2018-09-02 17:38:31 INFO  TestBase:261 - Home button is dispalyed and object is:-[[ChromeDriver: chrome on XP (d0d17a3d02f8e9e9247ef730adc52208)] -> xpath: //div[@class='skip-links-inner']/a[1]]
+2018-09-02 17:38:31 INFO  TC_Purchase_Of_RunningShoes:74 - ============= Finished login to the puma application===========
+2018-09-02 17:38:39 INFO  TestBase:299 - browser closed
+2018-09-02 18:59:41 INFO  TestBase:146 - navigating to :-https://in.puma.com/
+2018-09-02 18:59:55 INFO  TC_Purchase_Of_RunningShoes:50 - ============= Strting tcVerifyPageTitle===========
+2018-09-02 18:59:55 INFO  TC_Purchase_Of_RunningShoes:55 - ============= Finished tcVerifyPageTitle===========
+2018-09-02 19:00:01 INFO  TC_Purchase_Of_RunningShoes:70 - ============= Strting login to the puma application===========
+2018-09-02 19:00:04 INFO  TestBase:261 - Clicked on sign in button, Login window appeared and object is:-[[ChromeDriver: chrome on XP (4b5b1beef501e81742508265a23b5621)] -> xpath: //div[@class='utility-menu']/ul/li[4]/a]
+2018-09-02 19:00:07 INFO  TestBase:261 - Entered user name:-arvindbose16@gmail.com and object is [[ChromeDriver: chrome on XP (4b5b1beef501e81742508265a23b5621)] -> xpath: //input[@name='socialogin_email']]
+2018-09-02 19:00:08 INFO  TestBase:261 - Entered password:-Arvind@012 and object is [[ChromeDriver: chrome on XP (4b5b1beef501e81742508265a23b5621)] -> xpath: //input[@name='socialogin_password']]
+2018-09-02 19:00:09 INFO  TestBase:261 - cliked on login button and object is:-[[ChromeDriver: chrome on XP (4b5b1beef501e81742508265a23b5621)] -> xpath: //button[@name='send']]
+2018-09-02 19:00:12 INFO  TestBase:261 - Home button is dispalyed and object is:-[[ChromeDriver: chrome on XP (4b5b1beef501e81742508265a23b5621)] -> xpath: //div[@class='skip-links-inner']/a[1]]
+2018-09-02 19:00:12 INFO  TC_Purchase_Of_RunningShoes:77 - ============= Finished login to the puma application===========
+2018-09-02 19:00:12 INFO  TC_Purchase_Of_RunningShoes:88 - ============= Strting tcNavigateToMenRunningShoes===========
+2018-09-02 19:00:17 INFO  TestBase:261 - Clicked on men running shoes.
+2018-09-02 19:00:18 INFO  TC_Purchase_Of_RunningShoes:93 - ============= Finished tcNavigateToMenRunningShoes===========
+2018-09-02 19:00:34 INFO  TestBase:299 - browser closed
+2018-09-02 21:04:47 INFO  TestBase:146 - navigating to :-https://in.puma.com/
+2018-09-02 21:05:54 INFO  TC_Purchase_Of_RunningShoes:50 - ============= Strting tcVerifyPageTitle===========
+2018-09-02 21:05:54 INFO  TC_Purchase_Of_RunningShoes:55 - ============= Finished tcVerifyPageTitle===========
+2018-09-02 21:05:59 INFO  TC_Purchase_Of_RunningShoes:70 - ============= Strting login to the puma application===========
+2018-09-02 21:06:02 INFO  TestBase:261 - Clicked on sign in button, Login window appeared and object is:-[[ChromeDriver: chrome on XP (3ee1636078cee048477361abe8b5afdb)] -> xpath: //div[@class='utility-menu']/ul/li[4]/a]
+2018-09-02 21:06:05 INFO  TestBase:261 - Entered user name:-arvindbose16@gmail.com and object is [[ChromeDriver: chrome on XP (3ee1636078cee048477361abe8b5afdb)] -> xpath: //input[@name='socialogin_email']]
+2018-09-02 21:06:07 INFO  TestBase:261 - Entered password:-Arvind@012 and object is [[ChromeDriver: chrome on XP (3ee1636078cee048477361abe8b5afdb)] -> xpath: //input[@name='socialogin_password']]
+2018-09-02 21:06:08 INFO  TestBase:261 - cliked on login button and object is:-[[ChromeDriver: chrome on XP (3ee1636078cee048477361abe8b5afdb)] -> xpath: //button[@name='send']]
+2018-09-02 21:06:10 INFO  TestBase:261 - Home button is dispalyed and object is:-[[ChromeDriver: chrome on XP (3ee1636078cee048477361abe8b5afdb)] -> xpath: //div[@class='skip-links-inner']/a[1]]
+2018-09-02 21:06:10 INFO  TC_Purchase_Of_RunningShoes:77 - ============= Finished login to the puma application===========
+2018-09-02 21:06:17 INFO  TC_Purchase_Of_RunningShoes:88 - ============= Strting tcNavigateToMenRunningShoes===========
+2018-09-02 21:06:31 INFO  TestBase:261 - Clicked on men running shoes.
+2018-09-02 21:06:32 INFO  TC_Purchase_Of_RunningShoes:93 - ============= Finished tcNavigateToMenRunningShoes===========
+2018-09-02 21:06:39 INFO  TestBase:299 - browser closed
+2018-09-02 22:23:09 INFO  TestBase:146 - navigating to :-https://in.puma.com/
+2018-09-02 22:28:22 INFO  TestBase:299 - browser closed
+2018-09-02 22:31:34 INFO  TestBase:146 - navigating to :-https://in.puma.com/
+2018-09-02 22:32:52 INFO  TC_Purchase_Of_RunningShoes:55 - ============= Strting tcVerifyPageTitle===========
+2018-09-02 22:32:52 INFO  TestBase:261 - Actual page title is same as expected.
+2018-09-02 22:32:52 INFO  TC_Purchase_Of_RunningShoes:60 - ============= Finished tcVerifyPageTitle===========
+2018-09-02 22:32:55 INFO  TC_Purchase_Of_RunningShoes:75 - ============= Strting login to the puma application===========
+2018-09-02 22:32:58 INFO  TestBase:261 - Clicked on sign in button, Login window appeared and object is:-[[ChromeDriver: chrome on XP (4d3421fd130fb12547468b7e1f45e9e6)] -> xpath: //div[@class='utility-menu']/ul/li[4]/a]
+2018-09-02 22:33:01 INFO  TestBase:261 - Entered user name:-arvindbose16@gmail.com and object is [[ChromeDriver: chrome on XP (4d3421fd130fb12547468b7e1f45e9e6)] -> xpath: //input[@name='socialogin_email']]
+2018-09-02 22:33:02 INFO  TestBase:261 - Entered password:-Arvind@012 and object is [[ChromeDriver: chrome on XP (4d3421fd130fb12547468b7e1f45e9e6)] -> xpath: //input[@name='socialogin_password']]
+2018-09-02 22:33:03 INFO  TestBase:261 - cliked on login button and object is:-[[ChromeDriver: chrome on XP (4d3421fd130fb12547468b7e1f45e9e6)] -> xpath: //button[@name='send']]
+2018-09-02 22:33:06 INFO  TestBase:261 - Home button is dispalyed and object is:-[[ChromeDriver: chrome on XP (4d3421fd130fb12547468b7e1f45e9e6)] -> xpath: //div[@class='skip-links-inner']/a[1]]
+2018-09-02 22:33:06 INFO  TC_Purchase_Of_RunningShoes:82 - ============= Finished login to the puma application===========
+2018-09-02 22:33:06 INFO  TC_Purchase_Of_RunningShoes:93 - ============= Strting tcNavigateTo_Men_RunningShoes===========
+2018-09-02 22:33:07 INFO  TestBase:261 - Clicked on men running shoes.
+2018-09-02 22:33:08 INFO  TC_Purchase_Of_RunningShoes:98 - ============= Finished tcNavigateTo_Men_RunningShoes===========
+2018-09-02 22:33:23 INFO  TC_Purchase_Of_RunningShoes:112 - ============= Strting tcClickOn2ndShoesAndAddToCart===========
+2018-09-02 22:34:39 INFO  TestBase:261 - clicked on 2nd shoes and new window lauunch for carting and object is:-[[ChromeDriver: chrome on XP (4d3421fd130fb12547468b7e1f45e9e6)] -> xpath: //div[@class='category-products']/ul[1]/li[2]]
+2018-09-02 22:34:40 INFO  TestBase:261 - Window switch to cart window.
+2018-09-02 22:34:41 INFO  TestBase:261 - Window switch to cart window.
+2018-09-02 22:34:56 INFO  TestBase:261 - Clicked on select size button and list of size window appeared and object is:-[[ChromeDriver: chrome on XP (4d3421fd130fb12547468b7e1f45e9e6)] -> xpath: //div[@id='size_label']/div//following-sibling::div[2]]
+2018-09-02 22:35:05 INFO  TestBase:299 - browser closed
+2018-09-02 22:44:49 INFO  TestBase:146 - navigating to :-https://in.puma.com/
+2018-09-02 22:45:46 INFO  TC_Purchase_Of_RunningShoes:55 - ============= Strting tcVerifyPageTitle===========
+2018-09-02 22:45:47 INFO  TestBase:261 - Actual page title is same as expected.
+2018-09-02 22:45:47 INFO  TC_Purchase_Of_RunningShoes:60 - ============= Finished tcVerifyPageTitle===========
+2018-09-02 22:45:52 INFO  TC_Purchase_Of_RunningShoes:75 - ============= Strting login to the puma application===========
+2018-09-02 22:45:55 INFO  TestBase:261 - Clicked on sign in button, Login window appeared and object is:-[[ChromeDriver: chrome on XP (48e9764f34c58cb4e015cc49c4a18b3d)] -> xpath: //div[@class='utility-menu']/ul/li[4]/a]
+2018-09-02 22:45:58 INFO  TestBase:261 - Entered user name:-arvindbose16@gmail.com and object is [[ChromeDriver: chrome on XP (48e9764f34c58cb4e015cc49c4a18b3d)] -> xpath: //input[@name='socialogin_email']]
+2018-09-02 22:45:59 INFO  TestBase:261 - Entered password:-Arvind@012 and object is [[ChromeDriver: chrome on XP (48e9764f34c58cb4e015cc49c4a18b3d)] -> xpath: //input[@name='socialogin_password']]
+2018-09-02 22:46:00 INFO  TestBase:261 - cliked on login button and object is:-[[ChromeDriver: chrome on XP (48e9764f34c58cb4e015cc49c4a18b3d)] -> xpath: //button[@name='send']]
+2018-09-02 22:46:03 INFO  TestBase:261 - Home button is dispalyed and object is:-[[ChromeDriver: chrome on XP (48e9764f34c58cb4e015cc49c4a18b3d)] -> xpath: //div[@class='skip-links-inner']/a[1]]
+2018-09-02 22:46:03 INFO  TC_Purchase_Of_RunningShoes:82 - ============= Finished login to the puma application===========
+2018-09-02 22:46:03 INFO  TC_Purchase_Of_RunningShoes:93 - ============= Strting tcNavigateTo_Men_RunningShoes===========
+2018-09-02 22:46:04 INFO  TestBase:261 - Clicked on men running shoes.
+2018-09-02 22:46:05 INFO  TC_Purchase_Of_RunningShoes:98 - ============= Finished tcNavigateTo_Men_RunningShoes===========
+2018-09-02 22:46:06 INFO  TC_Purchase_Of_RunningShoes:112 - ============= Strting tcClickOn2ndShoesAndAddToCart===========
+2018-09-02 22:47:00 INFO  TestBase:261 - clicked on 2nd shoes and new window lauunch for carting and object is:-[[ChromeDriver: chrome on XP (48e9764f34c58cb4e015cc49c4a18b3d)] -> xpath: //div[@class='category-products']/ul[1]/li[2]]
+2018-09-02 22:47:01 INFO  TestBase:261 - Window switch to cart window.
+2018-09-02 22:47:22 INFO  TestBase:299 - browser closed
+2018-09-03 12:44:00 INFO  TestBase:146 - navigating to :-https://in.puma.com/
+2018-09-03 12:44:14 INFO  TC_Purchase_Of_MenRunningShoes:55 - ============= Strting tcVerifyPageTitle===========
+2018-09-03 12:44:14 INFO  TestBase:261 - Actual page title is same as expected.
+2018-09-03 12:44:14 INFO  TC_Purchase_Of_MenRunningShoes:60 - ============= Finished tcVerifyPageTitle===========
+2018-09-03 12:44:15 INFO  TC_Purchase_Of_MenRunningShoes:75 - ============= Strting login to the puma application===========
+2018-09-03 12:44:17 INFO  TestBase:261 - Clicked on sign in button, Login window appeared and object is:-[[ChromeDriver: chrome on XP (c8d1906e60bf5970ae86d01ac1d9b1be)] -> xpath: //div[@class='utility-menu']/ul/li[4]/a]
+2018-09-03 12:44:19 INFO  TestBase:261 - Entered user name:-arvindbose16@gmail.com and object is [[ChromeDriver: chrome on XP (c8d1906e60bf5970ae86d01ac1d9b1be)] -> xpath: //input[@name='socialogin_email']]
+2018-09-03 12:44:20 INFO  TestBase:261 - Entered password:-Arvind@012 and object is [[ChromeDriver: chrome on XP (c8d1906e60bf5970ae86d01ac1d9b1be)] -> xpath: //input[@name='socialogin_password']]
+2018-09-03 12:44:22 INFO  TestBase:261 - cliked on login button and object is:-[[ChromeDriver: chrome on XP (c8d1906e60bf5970ae86d01ac1d9b1be)] -> xpath: //button[@name='send']]
+2018-09-03 12:44:24 INFO  TestBase:261 - Home button is dispalyed and object is:-[[ChromeDriver: chrome on XP (c8d1906e60bf5970ae86d01ac1d9b1be)] -> xpath: //div[@class='skip-links-inner']/a[1]]
+2018-09-03 12:44:24 INFO  TC_Purchase_Of_MenRunningShoes:82 - ============= Finished login to the puma application===========
+2018-09-03 12:44:24 INFO  TC_Purchase_Of_MenRunningShoes:93 - ============= Strting tcNavigateTo_Men_RunningShoes===========
+2018-09-03 12:44:24 INFO  TestBase:261 - Clicked on men running shoes.
+2018-09-03 12:44:25 INFO  TC_Purchase_Of_MenRunningShoes:98 - ============= Finished tcNavigateTo_Men_RunningShoes===========
+2018-09-03 12:44:28 INFO  TC_Purchase_Of_MenRunningShoes:109 - ============= Strting tcClcikOnSecondShoe_AndSwitchToCartPage===========
+2018-09-03 12:45:15 INFO  TestBase:299 - browser closed
+2018-09-03 12:46:07 INFO  TestBase:146 - navigating to :-https://in.puma.com/
+2018-09-03 12:46:21 INFO  TC_Purchase_Of_MenRunningShoes:55 - ============= Strting tcVerifyPageTitle===========
+2018-09-03 12:46:21 INFO  TestBase:261 - Actual page title is same as expected.
+2018-09-03 12:46:21 INFO  TC_Purchase_Of_MenRunningShoes:60 - ============= Finished tcVerifyPageTitle===========
+2018-09-03 12:46:22 INFO  TC_Purchase_Of_MenRunningShoes:75 - ============= Strting login to the puma application===========
+2018-09-03 12:46:24 INFO  TestBase:261 - Clicked on sign in button, Login window appeared and object is:-[[ChromeDriver: chrome on XP (1ccee5ce38e40600495a3879496e3264)] -> xpath: //div[@class='utility-menu']/ul/li[4]/a]
+2018-09-03 12:46:26 INFO  TestBase:261 - Entered user name:-arvindbose16@gmail.com and object is [[ChromeDriver: chrome on XP (1ccee5ce38e40600495a3879496e3264)] -> xpath: //input[@name='socialogin_email']]
+2018-09-03 12:46:27 INFO  TestBase:261 - Entered password:-Arvind@012 and object is [[ChromeDriver: chrome on XP (1ccee5ce38e40600495a3879496e3264)] -> xpath: //input[@name='socialogin_password']]
+2018-09-03 12:46:28 INFO  TestBase:261 - cliked on login button and object is:-[[ChromeDriver: chrome on XP (1ccee5ce38e40600495a3879496e3264)] -> xpath: //button[@name='send']]
+2018-09-03 12:46:33 INFO  TestBase:261 - Home button is dispalyed and object is:-[[ChromeDriver: chrome on XP (1ccee5ce38e40600495a3879496e3264)] -> xpath: //div[@class='skip-links-inner']/a[1]]
+2018-09-03 12:46:33 INFO  TC_Purchase_Of_MenRunningShoes:82 - ============= Finished login to the puma application===========
+2018-09-03 12:46:34 INFO  TC_Purchase_Of_MenRunningShoes:93 - ============= Strting tcNavigateTo_Men_RunningShoes===========
+2018-09-03 12:46:34 INFO  TestBase:261 - Clicked on men running shoes.
+2018-09-03 12:46:35 INFO  TC_Purchase_Of_MenRunningShoes:98 - ============= Finished tcNavigateTo_Men_RunningShoes===========
+2018-09-03 12:46:35 INFO  TC_Purchase_Of_MenRunningShoes:109 - ============= Strting tcClcikOnSecondShoe_AndSwitchToCartPage===========
+2018-09-03 12:47:12 INFO  TestBase:299 - browser closed
+2018-09-03 12:47:39 INFO  TestBase:146 - navigating to :-https://in.puma.com/
+2018-09-03 12:48:01 INFO  TC_Purchase_Of_MenRunningShoes:55 - ============= Strting tcVerifyPageTitle===========
+2018-09-03 12:48:01 INFO  TestBase:261 - Actual page title is same as expected.
+2018-09-03 12:48:01 INFO  TC_Purchase_Of_MenRunningShoes:60 - ============= Finished tcVerifyPageTitle===========
+2018-09-03 12:48:02 INFO  TC_Purchase_Of_MenRunningShoes:75 - ============= Strting login to the puma application===========
+2018-09-03 12:48:04 INFO  TestBase:261 - Clicked on sign in button, Login window appeared and object is:-[[ChromeDriver: chrome on XP (a8ccbdf986109030720df5a78d8510c0)] -> xpath: //div[@class='utility-menu']/ul/li[4]/a]
+2018-09-03 12:48:06 INFO  TestBase:261 - Entered user name:-arvindbose16@gmail.com and object is [[ChromeDriver: chrome on XP (a8ccbdf986109030720df5a78d8510c0)] -> xpath: //input[@name='socialogin_email']]
+2018-09-03 12:48:07 INFO  TestBase:261 - Entered password:-Arvind@012 and object is [[ChromeDriver: chrome on XP (a8ccbdf986109030720df5a78d8510c0)] -> xpath: //input[@name='socialogin_password']]
+2018-09-03 12:48:08 INFO  TestBase:261 - cliked on login button and object is:-[[ChromeDriver: chrome on XP (a8ccbdf986109030720df5a78d8510c0)] -> xpath: //button[@name='send']]
+2018-09-03 12:48:16 INFO  TestBase:261 - Home button is dispalyed and object is:-[[ChromeDriver: chrome on XP (a8ccbdf986109030720df5a78d8510c0)] -> xpath: //div[@class='skip-links-inner']/a[1]]
+2018-09-03 12:48:16 INFO  TC_Purchase_Of_MenRunningShoes:82 - ============= Finished login to the puma application===========
+2018-09-03 12:48:16 INFO  TC_Purchase_Of_MenRunningShoes:93 - ============= Strting tcNavigateTo_Men_RunningShoes===========
+2018-09-03 12:48:20 INFO  TestBase:261 - Clicked on men running shoes.
+2018-09-03 12:48:21 INFO  TC_Purchase_Of_MenRunningShoes:98 - ============= Finished tcNavigateTo_Men_RunningShoes===========
+2018-09-03 12:48:22 INFO  TC_Purchase_Of_MenRunningShoes:109 - ============= Strting tcClcikOnSecondShoe_AndSwitchToCartPage===========
+2018-09-03 12:48:22 INFO  TestBase:261 - clicked on 2nd shoes and new window lauunch for carting and object is:-[[ChromeDriver: chrome on XP (a8ccbdf986109030720df5a78d8510c0)] -> xpath: //div[@class='category-products']/ul[1]/li[2]]
+2018-09-03 12:48:23 INFO  TestBase:261 - Window switch to cart window.
+2018-09-03 12:48:24 INFO  TestBase:261 - Window switch to cart window.
+2018-09-03 12:48:25 INFO  TC_Purchase_Of_MenRunningShoes:114 - ============= Finished tcClcikOnSecondShoe_AndSwitchToCartPage===========
+2018-09-03 12:48:27 INFO  TC_Purchase_Of_MenRunningShoes:128 - ============= Strting tcSelectSizeAndQuantity===========
+2018-09-03 12:48:27 INFO  TestBase:261 - Clicked on size selection button and size list panel appeared
+2018-09-03 12:48:28 INFO  TestBase:261 - Clicked on specific size and selected size appear in the box.
+2018-09-03 12:48:29 INFO  TC_Purchase_Of_MenRunningShoes:143 - ============= Strting tcAddToCartSelectedProduct===========
+2018-09-03 12:49:41 INFO  TestBase:261 - Click on add to cart button to add product in cart and object is:-Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='add-to-cart']//button'
+2018-09-03 12:49:42 INFO  TC_Purchase_Of_MenRunningShoes:148 - ============= Finished tcAddToCartSelectedProduct===========
+2018-09-03 12:49:42 INFO  TC_Purchase_Of_MenRunningShoes:162 - ============= Strting tcValidateCartWithProductNamePriceAndQuantity===========
+2018-09-03 12:49:42 INFO  TestBase:261 - Actual page tiltle for cart is same as expected.
+2018-09-03 12:49:43 INFO  TestBase:261 - Product name appear on main page is same as Cart page and object is:-[[ChromeDriver: chrome on XP (a8ccbdf986109030720df5a78d8510c0)] -> xpath: //table[@id='shopping-cart-table']/tbody/tr/td[2]/h2/a]
+2018-09-03 12:49:44 INFO  TestBase:261 - Product Price appear on main page is same as Cart page and object is:-[[ChromeDriver: chrome on XP (a8ccbdf986109030720df5a78d8510c0)] -> xpath: //table[@id='shopping-cart-table']/tbody/tr/td[3]/span/span]
+2018-09-03 12:49:49 INFO  TestBase:299 - browser closed
+2018-09-03 12:50:26 INFO  TestBase:146 - navigating to :-https://in.puma.com/
+2018-09-03 12:50:38 INFO  TC_Purchase_Of_MenRunningShoes:55 - ============= Strting tcVerifyPageTitle===========
+2018-09-03 12:50:38 INFO  TestBase:261 - Actual page title is same as expected.
+2018-09-03 12:50:38 INFO  TC_Purchase_Of_MenRunningShoes:60 - ============= Finished tcVerifyPageTitle===========
+2018-09-03 12:50:39 INFO  TC_Purchase_Of_MenRunningShoes:75 - ============= Strting login to the puma application===========
+2018-09-03 12:50:41 INFO  TestBase:261 - Clicked on sign in button, Login window appeared and object is:-[[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //div[@class='utility-menu']/ul/li[4]/a]
+2018-09-03 12:50:43 INFO  TestBase:261 - Entered user name:-arvindbose16@gmail.com and object is [[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //input[@name='socialogin_email']]
+2018-09-03 12:50:44 INFO  TestBase:261 - Entered password:-Arvind@012 and object is [[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //input[@name='socialogin_password']]
+2018-09-03 12:50:45 INFO  TestBase:261 - cliked on login button and object is:-[[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //button[@name='send']]
+2018-09-03 12:50:50 INFO  TestBase:261 - Home button is dispalyed and object is:-[[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //div[@class='skip-links-inner']/a[1]]
+2018-09-03 12:50:50 INFO  TC_Purchase_Of_MenRunningShoes:82 - ============= Finished login to the puma application===========
+2018-09-03 12:50:51 INFO  TC_Purchase_Of_MenRunningShoes:93 - ============= Strting tcNavigateTo_Men_RunningShoes===========
+2018-09-03 12:50:54 INFO  TestBase:261 - Clicked on men running shoes.
+2018-09-03 12:50:55 INFO  TC_Purchase_Of_MenRunningShoes:98 - ============= Finished tcNavigateTo_Men_RunningShoes===========
+2018-09-03 12:50:55 INFO  TC_Purchase_Of_MenRunningShoes:109 - ============= Strting tcClcikOnSecondShoe_AndSwitchToCartPage===========
+2018-09-03 12:50:56 INFO  TestBase:261 - clicked on 2nd shoes and new window lauunch for carting and object is:-[[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //div[@class='category-products']/ul[1]/li[2]]
+2018-09-03 12:50:57 INFO  TestBase:261 - Window switch to cart window.
+2018-09-03 12:50:58 INFO  TestBase:261 - Window switch to cart window.
+2018-09-03 12:50:59 INFO  TC_Purchase_Of_MenRunningShoes:114 - ============= Finished tcClcikOnSecondShoe_AndSwitchToCartPage===========
+2018-09-03 12:51:00 INFO  TC_Purchase_Of_MenRunningShoes:128 - ============= Strting tcSelectSizeAndQuantity===========
+2018-09-03 12:51:01 INFO  TestBase:261 - Clicked on size selection button and size list panel appeared
+2018-09-03 12:51:02 INFO  TestBase:261 - Clicked on specific size and selected size appear in the box.
+2018-09-03 12:51:03 INFO  TC_Purchase_Of_MenRunningShoes:143 - ============= Strting tcAddToCartSelectedProduct===========
+2018-09-03 12:52:13 INFO  TestBase:261 - Click on add to cart button to add product in cart and object is:-Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='add-to-cart']//button'
+2018-09-03 12:52:14 INFO  TC_Purchase_Of_MenRunningShoes:148 - ============= Finished tcAddToCartSelectedProduct===========
+2018-09-03 12:52:14 INFO  TC_Purchase_Of_MenRunningShoes:162 - ============= Strting tcValidateCartWithProductNamePriceAndQuantity===========
+2018-09-03 12:52:14 INFO  TestBase:261 - Actual page tiltle for cart is same as expected.
+2018-09-03 12:52:15 INFO  TestBase:261 - Product name appear on main page is same as Cart page and object is:-[[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //table[@id='shopping-cart-table']/tbody/tr/td[2]/h2/a]
+2018-09-03 12:52:16 INFO  TestBase:261 - Product Price appear on main page is same as Cart page and object is:-[[ChromeDriver: chrome on XP (e3c7c1bc69ac3e46ce98d0570c349b48)] -> xpath: //table[@id='shopping-cart-table']/tbody/tr/td[3]/span/span]
+2018-09-03 12:52:21 INFO  TestBase:299 - browser closed
